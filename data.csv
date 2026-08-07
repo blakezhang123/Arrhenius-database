@@ -1,0 +1,27 @@
+id,tracer,matrix,phase,D0_v_m2_s,D0_gb_m2_s,P0_m3_s,Q_kJ_mol,Tmin_K,Tmax_K,method,reference,doi,notes
+D001,Ag,Ag,Dv,4.10E-06,,,169.8,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D002,lam1973
+D002,Ag,Ag,P,,,1.13E-15,67.91,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D003,sommer1992
+D003,Ni,Ni,P,,,5.40E-15,123,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D004,sergiy2010 acta
+D004,Ag,Ni,P,,,2.91E-14,112.36,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D005,minkwitz1998
+D005,Ni,FeNi,P,,,4.65E-13,177,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D006,Sergiy 2003
+D006,Ag,FeNi,P,,,8.10E-14,126,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D007,Sergiy 2003
+D007,Ag,AgNi,P,,,1.42E-14,93.67,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D008,Minkwitz1998
+D008,Ni,AlCoCrFeNi2.1,P,,,1.66E-08,234.9,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D009,
+D009,Ag,AlCoCrFeNi2.1,P,,,4.30E-18,87.3,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D010,
+D010,Ni,Ni,Dv,9.20E-05,,,278,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D011,Maier1976
+D011,Ag,Ni,Dv,8.94E-04,,,279.4,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D012,vladimirov 1978
+D012,Ni,FeNi,Dv,3.44E-04,,,290,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D013,Million 1981
+D013,Ag,FeNi,Dv,1.20E-03,,,279,546,777,SIMS,Fictional et al. (1984),https://doi.org/10.0000/test.D014,Sergiy 2003
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
