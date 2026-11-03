@@ -1,0 +1,386 @@
+id,tracer,matrix,phase,D0_v_m2_s,D0_gb_m2_s,P0_m3_s,Q_kJ_mol,Tmin_K,Tmax_K,method,reference,doi,notes
+D001,63Ni/64Ni,Ni3Al (75.2 at% Ni polycrystal; 75.9 at% Ni single crystal),Dv,3.59e-4,,,303.0,1004,1422,radiotracer+SIMS,Frank et al. (1995),10.1002/pssb.2221910105,
+D002,Ag,Ag,P,,,1.13e-15,67.91,523,780,radiotracer,Sommer et al. (1992),10.1063/1.352328,high-temperature range; B
+D003,Ag,"Ag (H-H grade, <0.03 wt.% impurities)",Dgb,,3.0e-6,,84.5,648,773,radiotracer,Hoffman et al. (1951),10.1063/1.1700021,H-H silver; B
+D004,Ag,"Ag (J-M grade, <0.001 wt.% impurities)",Dgb,,1.2e-5,,90.0,648,773,radiotracer,Hoffman et al. (1951),10.1063/1.1700021,J-M silver; B
+D005,Ag,Ag (high purity),Dv,8.95e-5,,,192.3,,,radiotracer,Hoffman et al. (1951),10.1063/1.1700021,
+D006,Ag,Al,Dv,1.18e-05,,,116.44,644.15,928.15,radiotracer,Peterson et al. (1970),,
+D007,Ag,Cu (5N8 purity),Dgb,,1.7e-4,,108.6,452,544,radiotracer,Divinski et al. (2001),,C; s measured
+D008,Ag,Cu (5N8 purity),Dv,6.1e-5,,,194.4,823,1273,radiotracer,Divinski et al. (2001),,
+D009,Ag,Cu (5N8 purity),P,,,1.4e-15,69.1,675,962,radiotracer,Divinski et al. (2001),,B; s measured
+D010,Ag,Cu (5N8) Sigma5(310) bicrystal,Dv,6.1e-5,,,194.4,,,radiotracer,Divinski et al. (2012),10.1103/PhysRevB.85.144104,
+D011,Ag,Cu (5N8) Sigma5(310) bicrystal,P,,,3.54e-15,67.0,675,826,radiotracer,Divinski et al. (2012),10.1103/PhysRevB.85.144104,parallel to [001] tilt axis; B; s measured
+D012,Ag,Cu (5N8) Sigma5(310) bicrystal,P,,,8.72e-15,74.5,675,826,radiotracer,Divinski et al. (2012),10.1103/PhysRevB.85.144104,perpendicular to [001] tilt axis; B; s measured
+D013,Ag,Cu Sigma5(310)[001] bicrystal,Dgb,,1.73e-6,,94.8,534,675,radiotracer serial sectioning,Edelhoff et al. (2011),10.1016/j.scriptamat.2010.10.032,parallel to [001] tilt axis; C; s assumed
+D014,Ag,Cu Sigma5(310)[001] bicrystal,Dgb,,4.30e-6,,102.9,534,675,radiotracer serial sectioning,Edelhoff et al. (2011),10.1016/j.scriptamat.2010.10.032,perpendicular to [001] tilt axis; C; s assumed
+D015,Ag,Cu bicrystal 45 deg misorientation (99.999% Cu),Dgb,,1.5e-03,,108.8,816,1030,radiotracer autoradiography,Renouf et al. (1970),10.1080/14786437008228229,B
+D016,Ag,Cu-0.2at%Ag alloy,Dgb,,2.5e-4,,108.8,473,537,radiotracer serial sectioning,Divinski et al. (2003),,C
+D017,Ag,Cu-0.2at%Ag alloy,P,,,3.24e-15,82.4,668,892,radiotracer serial sectioning,Divinski et al. (2003),,regular alloy GBs (Ag-covered); B; s measured
+D018,Ag,Cu-0.2at%Ag alloy,P,,,1.31e-15,67.1,710,970,radiotracer serial sectioning,Divinski et al. (2003),,fast GBs (dilute-limit; almost Ag-free); B; s assumed
+D019,Ag,Fe-40 wt.% Ni,Dv,1.2e-03,,,279,1125,1399,radiotracer,Divinski et al. (2003),,
+D020,Ag,Fe-40 wt.% Ni,P,,,8.1e-14,126,970,1239,radiotracer,Divinski et al. (2003),,B-type
+D021,Ag,"Ni (polycrystals, 5N purity)",P,,,5.6e-15,120.5,973,1253,radiotracer,Minkwitz et al. (1998),10.4028/www.scientific.net/MSF.294-296.541,"B; from scanned paper, verify before publication use"
+D022,Ag,Ni (single crystal; high purity),Dv,2.5e-6,,,197.5,780,1055,radiotracer,Wazzan et al. (1971),10.1063/1.1659942,
+D023,Ag,Ni polycrystalline (99.3%),Dgb,,1.8e-05,,104.6,,,radiotracer,Treheux et al. (1976),,Fisher; B
+D024,Ag,Ni polycrystalline (99.3%),Dgb,,3.2e-05,,104.6,,,radiotracer,Treheux et al. (1976),,Whipple; B
+D025,Ag,Ni polycrystalline (99.3%),Dv,2.25e-03,,,282.0,,,radiotracer,Treheux et al. (1976),,
+D026,Ag,Ni single crystal (99.99%),Dv,8.25e-04,,,282.0,,,radiotracer,Treheux et al. (1976),,
+D027,Ag,Pb,Dv,1.8e-05,,,61.7,361,500,radiotracer,Amenzou-Badrour et al. (1988),,
+D028,Ag,Zr,Dv,5.1e-07,,,187.0,1037,1120,radiotracer,Tendler et al. (1974),,
+D029,Ag,Zr,Dv,5.7e-08,,,136.8,1224,1463,radiotracer,Tendler et al. (1974),,
+D030,Ag,gamma-Fe-40wt%Ni nanocrystalline,Dgb,,4.7e-04,,173,684,1200,radiotracer serial sectioning,Divinski et al. (2004),10.1016/j.actamat.2003.09.045,C; s measured
+D031,Ag,gamma-Fe-40wt%Ni nanocrystalline (inter-agglomerate boundaries),P,,,4.8e-13,91,489,787,radiotracer serial sectioning,Divinski et al. (2004),10.1016/j.actamat.2003.09.045,B; s assumed
+D032,Al,Al (99.99% pure),Dv,0.000171,,,142.3,729,916,radiotracer,Lundy et al. (1962),10.1063/1.1728808,
+D033,Au,Al,Dv,1.31e-05,,,116.27,641.85,927.75,radiotracer,Peterson et al. (1970),,
+D034,B,alpha-Ti (pure),Dv,4.2e-06,,,113,1033,1117,SIMS stable-isotope tracer,Divinski et al. (2008),10.1016/j.intermet.2007.08.008,bulk
+D035,B,gamma-TiAl (Ti-54at%Al),Dv,2.48e-05,,,200,1260,1577,SIMS stable-isotope tracer,Divinski et al. (2008),10.1016/j.intermet.2007.08.008,bulk
+D036,Co,Al,Dv,0.0464,,,174.64,694.95,927.15,radiotracer,Peterson et al. (1970),,
+D037,Co,Al15Sc10Hf25Ti25Zr25,Dv,1.83e-5,,,163,673,973,radiotracer,Vaidya et al. (2020),10.1016/j.actamat.2020.06.025,slow
+D038,Co,Al15Sc10Hf25Ti25Zr25,Dv,3.75e-8,,,106,673,973,radiotracer,Vaidya et al. (2020),10.1016/j.actamat.2020.06.025,fast
+D039,Co,Al5Sc20Hf25Ti25Zr25,Dv,1.07e-2,,,192,673,973,radiotracer,Vaidya et al. (2020),10.1016/j.actamat.2020.06.025,slow
+D040,Co,Al5Sc20Hf25Ti25Zr25,Dv,4.66e-7,,,113,673,973,radiotracer,Vaidya et al. (2020),10.1016/j.actamat.2020.06.025,fast
+D041,Co,AlCoCrFeNiTi0.2,P,,,2.50e-6,278.4,973,1193,radiotracer,Li et al. (2023),10.1016/j.actamat.2023.119352,B
+D042,Co,B2 phase of AlCoCrFeNiTi0.2 (phase composition Al12.5Co27.1Cr8.1Fe15.7Ni31.6Ti5.0),Dv,6e-6,,,207,973,1273,radiotracer,Li et al. (2023),10.1016/j.actamat.2023.119352,
+D043,Co,"Co-Ni alloy No. 1 (99.5 at% Co, balance Ni)",Dv,0.000166,,,287.4,1320,1584,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D044,Co,"Co-Ni alloy No. 10 (10.8 at% Co, balance Ni)",Dv,6.6e-05,,,263.6,1436,1666,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D045,Co,"Co-Ni alloy No. 11 (0.03 at% Co, balance Ni)",Dv,0.000111,,,271.5,1428,1646,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D046,Co,"Co-Ni alloy No. 12 (93.8 at% Co, balance Ni)",Dv,0.00074,,,305.0,1486,1641,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D047,Co,"Co-Ni alloy No. 13 (4.3 at% Co, balance Ni)",Dv,4.9e-05,,,261.1,1486,1641,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D048,Co,"Co-Ni alloy No. 2 (89.0 at% Co, balance Ni)",Dv,0.000252,,,290.0,1436,1666,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D049,Co,"Co-Ni alloy No. 3 (80.6 at% Co, balance Ni)",Dv,9.9e-05,,,275.7,1436,1666,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D050,Co,"Co-Ni alloy No. 4 (72.6 at% Co, balance Ni)",Dv,7e-05,,,271.1,1436,1666,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D051,Co,"Co-Ni alloy No. 6 (49.4 at% Co, balance Ni)",Dv,1.8e-05,,,248.9,1383,1592,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D052,Co,"Co-Ni alloy No. 7 (43.2 at% Co, balance Ni)",Dv,5.2e-05,,,261.9,1436,1666,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D053,Co,"Co-Ni alloy No. 8 (21.1 at% Co, balance Ni)",Dv,3.3e-05,,,255.6,1436,1666,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D054,Co,CoCrFeMnNi,Dv,1.6e-05,,,270,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D055,Co,CoCrFeMnNi,Dv,6.0e-4,,,303.1,1100,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,high-temperature branch
+D056,Co,CoCrFeMnNi,Dv,3.4e-8,,,206,923,1100,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,low-temperature branch
+D057,Co,CoCrFeMnNi,P,,,1.66e-12,181.5,643,1273,radiotracer,Glienke et al. (2020),10.1016/j.actamat.2020.05.009,Branch I (slow); B+C combined; s assumed
+D058,Co,CoCrFeMnNi (C-free),Dv,0.000264,,,312,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D059,Co,CoCrFeMnNi + 0.2 at.% C,Dv,1e-06,,,232,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D060,Co,CoCrFeMnNi + 0.5 at.% C,Dv,1e-06,,,219,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D061,Co,CoCrFeMnNi + 0.8 at.% C,Dv,3.5e-05,,,264,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D062,Co,CoCrFeNi,Dv,4.6e-07,,,240,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D063,Co,CoCrFeNi,Dv,1.7e-5,,,276.6,923,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D064,Co,CoCrFeNi,P,,,8.7e-14,165,643,1273,radiotracer,Sen et al. (2024),10.1016/j.actamat.2023.119588,slow; B+C combined; s assumed
+D065,Co,CoGa (48.0 at.% Co),Dv,2.10e-07,,,209.4,973,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D066,Co,CoGa (48.0 at.% Co),Dv,1.50e-01,,,307.8,973,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D067,Co,CoGa (50.0 at.% Co),Dv,3.79e-05,,,245.1,912,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D068,Co,CoGa (50.0 at.% Co),Dv,8.78e-02,,,301.0,912,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D069,Co,CoGa (56.0 at.% Co),Dv,1.02e-05,,,235.4,898,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D070,Co,CoGa (56.0 at.% Co),Dv,1.60e-01,,,303.0,898,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D071,Co,CoGa (60.0 at.% Co),Dv,3.03e-05,,,216.1,873,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D072,Co,CoGa (60.0 at.% Co),Dv,3.43e-02,,,280.8,873,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D073,Co,HfTiZr (equiatomic ternary),Dv,3.85e-2,,,208,673,973,radiotracer,Vaidya et al. (2020),10.1016/j.actamat.2020.06.025,slow
+D074,Co,HfZr (equiatomic binary),Dv,5.8e-3,,,203,673,973,radiotracer,Vaidya et al. (2020),10.1016/j.actamat.2020.06.025,slow
+D075,Co,HfZr (equiatomic binary),Dv,9.38e-7,,,136,673,973,radiotracer,Vaidya et al. (2020),10.1016/j.actamat.2020.06.025,fast
+D076,Co,alpha-Fe,P,,,2.23e-13,173.6,,,radiotracer,James et al. (1965),10.1080/14786436508218895,
+D077,Co,"alpha-Ti (coarse-grained, 50-100 µm)",Dgb,,4.5e-3,,70.3,293,573,radiotracer,Fiebig et al. (2011),10.1063/1.3650230,coarse-grained; B+C; s assumed
+D078,Co,"alpha-Ti (ultrafine-grained, ECAP, 200-300 nm)",Dgb,,1.25e-4,,68.6,293,573,radiotracer,Fiebig et al. (2011),10.1063/1.3650230,ultrafine-grained (ECAP); B+C; s assumed
+D079,Cr,Al,Dv,5.0,,,242.67,859.15,922.55,radiotracer,Peterson et al. (1970),,
+D080,Cr,CoCrFeMnNi,Dv,0.0024,,,313,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D081,Cr,CoCrFeMnNi,Dv,7.2e-4,,,294.5,973,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D082,Cr,CoCrFeMnNi,P,,,1.43e-12,180.6,643,1273,radiotracer,Glienke et al. (2020),10.1016/j.actamat.2020.05.009,Branch I (slow); B+C combined; s assumed
+D083,Cr,CoCrFeMnNi (C-free),Dv,0.00085,,,321,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D084,Cr,CoCrFeMnNi + 0.2 at.% C,Dv,2e-06,,,248,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D085,Cr,CoCrFeMnNi + 0.5 at.% C,Dv,2.8e-05,,,253,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D086,Cr,CoCrFeMnNi + 0.8 at.% C,Dv,1.6e-05,,,245,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D087,Cr,CoCrFeNi,Dv,0.0042,,,323,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D088,Cr,CoCrFeNi,Dv,6.1e-4,,,299.2,923,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D089,Cr,CoCrFeNi,P,,,9.7e-14,166,643,1273,radiotracer,Sen et al. (2024),10.1016/j.actamat.2023.119588,slow; B+C combined; s assumed
+D090,Cr,Fe,Dv,1.159e-04,,,276.7,1223,1473,radiotracer,Růžičková et al. (1981),,
+D091,Cr,Fe-0.93 at.% Cr,Dv,1.300e-04,,,286.0,1223,1473,radiotracer,Růžičková et al. (1981),,
+D092,Cr,Fe-15.5 wt.% Ni-0 wt.% Cr (Fe 84.5 wt.%),Dv,1.959e-04,,,280.5,1286,1536,radiotracer,Million et al. (1985),,
+D093,Cr,Fe-15Cr-20Ni (wt%),Dv,8.3e-4,,,309,1233,1673,radiotracer,Rothman et al. (1980),,
+D094,Cr,Fe-15Cr-20Ni-1.4Si (wt%),Dv,7.1e-4,,,303,1233,1673,radiotracer,Rothman et al. (1980),,
+D095,Cr,Fe-15Cr-45Ni (wt%),Dv,4.0e-4,,,293,1233,1673,radiotracer,Rothman et al. (1980),,
+D096,Cr,Fe-19.1 wt.% Ni-19.1 wt.% Cr (Fe 61.8 wt.%),Dv,4.246e-05,,,269.8,1286,1536,radiotracer,Million et al. (1985),,
+D097,Cr,Fe-22Cr-45Ni (wt%),Dv,4.1e-4,,,295,1233,1673,radiotracer,Rothman et al. (1980),,
+D098,Cr,Fe-3.31 at.% Cr,Dv,3.491e-05,,,273.8,1223,1473,radiotracer,Růžičková et al. (1981),,
+D099,Cr,Fe-34.8 wt.% Ni-30.4 wt.% Cr (Fe 34.8 wt.%),Dv,5.821e-04,,,294.5,1286,1536,radiotracer,Million et al. (1985),,
+D100,Cr,Fe-34.9 wt.% Ni-20.0 wt.% Cr (Fe 45.1 wt.%),Dv,1.950e-04,,,282.8,1286,1536,radiotracer,Million et al. (1985),,
+D101,Cr,Fe-35.0 wt.% Ni-10.1 wt.% Cr (Fe 54.9 wt.%),Dv,8.492e-04,,,299.1,1286,1536,radiotracer,Million et al. (1985),,
+D102,Cr,Fe-43.0 wt.% Ni-19.6 wt.% Cr (Fe 37.4 wt.%),Dv,4.688e-04,,,293.2,1286,1536,radiotracer,Million et al. (1985),,
+D103,Cr,Fe-46.6 wt.% Ni-0 wt.% Cr (Fe 53.4 wt.%),Dv,2.138e-04,,,281.2,1286,1536,radiotracer,Million et al. (1985),,
+D104,Cr,Fe-54.8 wt.% Ni-30.4 wt.% Cr (Fe 14.8 wt.%),Dv,1.866e-04,,,264.3,1286,1536,radiotracer,Million et al. (1985),,
+D105,Cr,Fe-55.1 wt.% Ni-19.9 wt.% Cr (Fe 25.0 wt.%),Dv,4.721e-04,,,295.8,1286,1536,radiotracer,Million et al. (1985),,
+D106,Cr,Fe-55.1 wt.% Ni-9.9 wt.% Cr (Fe 35.0 wt.%),Dv,5.224e-04,,,290.1,1286,1536,radiotracer,Million et al. (1985),,
+D107,Cr,Fe-63.5 wt.% Ni-20.0 wt.% Cr (Fe 16.5 wt.%),Dv,2.178e-04,,,282.3,1286,1536,radiotracer,Million et al. (1985),,
+D108,Cr,Fe-64.6 wt.% Ni-10.1 wt.% Cr (Fe 25.3 wt.%),Dv,1.352e-04,,,273.4,1286,1536,radiotracer,Million et al. (1985),,
+D109,Cr,Fe-65.3 wt.% Ni-30.4 wt.% Cr (Fe 4.3 wt.%),Dv,1.945e-04,,,279.3,1286,1536,radiotracer,Million et al. (1985),,
+D110,Cr,Fe-7.2 at.% Cr,Dv,1.279e-05,,,261.6,1223,1473,radiotracer,Růžičková et al. (1981),,
+D111,Cr,Fe-76.2 wt.% Ni-0 wt.% Cr (Fe 23.8 wt.%),Dv,5.000e-04,,,287.4,1286,1536,radiotracer,Million et al. (1985),,
+D112,Cr,Fe-78.5 wt.% Ni-21.5 wt.% Cr (Fe 0.0 wt.%),Dv,7.396e-04,,,297.8,1286,1536,radiotracer,Million et al. (1985),,
+D113,Cr,Fe-78.7 wt.% Ni-10.1 wt.% Cr (Fe 11.2 wt.%),Dv,2.265e-04,,,278.2,1286,1536,radiotracer,Million et al. (1985),,
+D114,Cr,Ni,Dv,8.511e-04,,,292.1,1223,1473,radiotracer,Růžičková et al. (1981),,
+D115,Cr,Ni-14.3 at.% Cr,Dv,5.662e-04,,,293.6,1223,1473,radiotracer,Růžičková et al. (1981),,
+D116,Cr,Ni-23.6 at.% Cr,Dv,6.095e-04,,,295.5,1223,1473,radiotracer,Růžičková et al. (1981),,
+D117,Cr,Ni-29.4 at.% Cr,Dv,2.911e-04,,,288.5,1223,1473,radiotracer,Růžičková et al. (1981),,
+D118,Cr,Ni-34.4 at.% Cr,Dv,2.421e-04,,,288.0,1223,1473,radiotracer,Růžičková et al. (1981),,
+D119,Cr,Ni-38.4 at.% Cr,Dv,2.158e-04,,,284.0,1223,1473,radiotracer,Růžičková et al. (1981),,
+D120,Cr,Ni-4.7 at.% Cr,Dv,6.368e-04,,,292.1,1223,1473,radiotracer,Růžičková et al. (1981),,
+D121,Cr,Ni-47.7 at.% Cr,Dv,2.642e-04,,,284.2,1223,1473,radiotracer,Růžičková et al. (1981),,
+D122,Cr,Ni-Fe-Cr austenitic alloys; 0 wt% Cr isoconcentration section (alloys 1-4),P,,,3.16e-12,200.5,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D123,Cr,Ni-Fe-Cr austenitic alloys; 10 wt% Cr isoconcentration section (alloys 5-8),P,,,3.31e-11,226.7,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D124,Cr,Ni-Fe-Cr austenitic alloys; 20 wt% Cr isoconcentration section (alloys 9-11),P,,,1.58e-9,243.9,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D125,Cr,Ni-Fe-Cr austenitic alloys; 30 wt% Cr isoconcentration section (alloys 12),P,,,2.88e-9,245.5,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D126,Cu,Al,Dv,6.47e-05,,,135.02,706.15,924.95,radiotracer,Peterson et al. (1970),,
+D127,Cu,CoCrFeNi,Dv,6.6e-10,,,149.9,973,1173,radiotracer,Gaertner et al. (2018),10.1557/jmr.2018.162,
+D128,Cu,"Cu (99.999% purity, material B)",P,,,1.16e-15,84.75,784,973,radiotracer,Surholt et al. (1997),10.1016/S1359-6454(97)00037-2,B
+D129,Cu,"Cu (99.9998% purity, material A)",P,,,3.89e-16,72.47,720,1066,radiotracer,Surholt et al. (1997),10.1016/S1359-6454(97)00037-2,B
+D130,Fe,Co17Cr46Fe16.3Mn15.2Ni5.5,Dv,1.54e-03,,,311,943,1173,SIMS,Zhang et al. (2021),10.1016/j.actamat.2020.116498,
+D131,Fe,CoCrFeMnNi,Dv,0.0013,,,309,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D132,Fe,CoCrFeMnNi,Dv,3.2e-5,,,264.0,973,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D133,Fe,CoCrFeMnNi,P,,,1.4e-12,182.2,643,1273,radiotracer,Glienke et al. (2020),10.1016/j.actamat.2020.05.009,Branch I (slow); B+C combined; s assumed
+D134,Fe,CoCrFeMnNi (C-free),Dv,4.6e-05,,,304,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D135,Fe,CoCrFeMnNi + 0.2 at.% C,Dv,1e-06,,,260,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D136,Fe,CoCrFeMnNi + 0.5 at.% C,Dv,2.1e-05,,,261,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D137,Fe,CoCrFeMnNi + 0.8 at.% C,Dv,1e-06,,,229,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D138,Fe,CoCrFeNi,Dv,0.00049,,,303,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D139,Fe,CoCrFeNi,Dv,1.5e-4,,,288.3,923,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D140,Fe,CoCrFeNi,P,,,1.39e-13,169,643,1273,radiotracer,Sen et al. (2024),10.1016/j.actamat.2023.119588,slow; B+C combined; s assumed
+D141,Fe,Cu-0.8 wt% Fe,P,,,7.64e-14,122.2,717,1100,radiotracer,Prokoshkina et al. (2017),10.1016/j.actamat.2017.05.024,B
+D142,Fe,"Fe (99.97 wt% purity, Material B)",P,,,3.42e-11,198,772,1050,radiotracer,Divinski et al. (2004),,B
+D143,Fe,"Fe (99.9938 wt% purity, Material A)",P,,,8.45e-13,166,772,1050,radiotracer,Divinski et al. (2004),,B
+D144,Fe,"Fe (pure, gamma)",Dv,7.21e-05,,,278.7,1258,1578,radiotracer,Million et al. (1981),,
+D145,Fe,Fe-1.53 at.% Cr,Dv,7.295e-05,,,283.1,1223,1473,radiotracer,Růžičková et al. (1981),,
+D146,Fe,Fe-15Cr-20Ni (wt%),Dv,5.3e-4,,,308,1233,1673,radiotracer,Rothman et al. (1980),,
+D147,Fe,Fe-15Cr-20Ni-1.4Si (wt%),Dv,5.1e-4,,,303,1233,1673,radiotracer,Rothman et al. (1980),,
+D148,Fe,Fe-15Cr-45Ni (wt%),Dv,2.1e-4,,,288,1233,1673,radiotracer,Rothman et al. (1980),,
+D149,Fe,Fe-19.1 wt.% Ni-19.1 wt.% Cr (Fe 61.8 wt.%),Dv,1.153e-04,,,286.9,1298,1548,radiotracer,Million et al. (1985),,
+D150,Fe,Fe-22Cr-45Ni (wt%),Dv,1.5e-4,,,286,1233,1673,radiotracer,Rothman et al. (1980),,
+D151,Fe,Fe-34.8 wt.% Ni-30.4 wt.% Cr (Fe 34.8 wt.%),Dv,1.656e-04,,,287.6,1298,1548,radiotracer,Million et al. (1985),,
+D152,Fe,Fe-34.9 wt.% Ni-20.0 wt.% Cr (Fe 45.1 wt.%),Dv,1.901e-03,,,314.5,1298,1548,radiotracer,Million et al. (1985),,
+D153,Fe,Fe-35.0 wt.% Ni-10.1 wt.% Cr (Fe 54.9 wt.%),Dv,2.716e-04,,,291.1,1298,1548,radiotracer,Million et al. (1985),,
+D154,Fe,Fe-43.0 wt.% Ni-19.6 wt.% Cr (Fe 37.4 wt.%),Dv,4.943e-05,,,274.9,1298,1548,radiotracer,Million et al. (1985),,
+D155,Fe,Fe-5.4 at.% Cr,Dv,4.064e-05,,,276.4,1223,1473,radiotracer,Růžičková et al. (1981),,
+D156,Fe,Fe-54.8 wt.% Ni-30.4 wt.% Cr (Fe 14.8 wt.%),Dv,2.046e-04,,,281.6,1298,1548,radiotracer,Million et al. (1985),,
+D157,Fe,Fe-55.1 wt.% Ni-19.9 wt.% Cr (Fe 25.0 wt.%),Dv,2.023e-03,,,319.8,1298,1548,radiotracer,Million et al. (1985),,
+D158,Fe,Fe-55.1 wt.% Ni-9.9 wt.% Cr (Fe 35.0 wt.%),Dv,7.586e-04,,,300.1,1298,1548,radiotracer,Million et al. (1985),,
+D159,Fe,Fe-63.5 wt.% Ni-20.0 wt.% Cr (Fe 16.5 wt.%),Dv,3.707e-04,,,291.1,1298,1548,radiotracer,Million et al. (1985),,
+D160,Fe,Fe-64.6 wt.% Ni-10.1 wt.% Cr (Fe 25.3 wt.%),Dv,1.472e-04,,,279.5,1298,1548,radiotracer,Million et al. (1985),,
+D161,Fe,Fe-65.3 wt.% Ni-30.4 wt.% Cr (Fe 4.3 wt.%),Dv,1.274e-04,,,280.8,1298,1548,radiotracer,Million et al. (1985),,
+D162,Fe,Fe-68.3 wt.% Ni-31.7 wt.% Cr (Fe 0.0 wt.%),Dv,6.516e-05,,,277.6,1298,1548,radiotracer,Million et al. (1985),,
+D163,Fe,Fe-76.2 wt.% Ni-0 wt.% Cr (Fe 23.8 wt.%),Dv,2.460e-03,,,311.4,1298,1548,radiotracer,Million et al. (1985),,
+D164,Fe,Fe-78.5 wt.% Ni-21.5 wt.% Cr (Fe 0.0 wt.%),Dv,1.358e-03,,,312.1,1298,1548,radiotracer,Million et al. (1985),,
+D165,Fe,Fe-78.7 wt.% Ni-10.1 wt.% Cr (Fe 11.2 wt.%),Dv,2.178e-04,,,284.4,1298,1548,radiotracer,Million et al. (1985),,
+D166,Fe,Fe-8.8 at.% Cr,Dv,6.855e-06,,,257.1,1223,1473,radiotracer,Růžičková et al. (1981),,
+D167,Fe,Fe-87.1 wt.% Ni-12.9 wt.% Cr (Fe 0.0 wt.%),Dv,1.033e-03,,,306.4,1298,1548,radiotracer,Million et al. (1985),,
+D168,Fe,"Fe-Ni alloy, 14.9 at.% Ni",Dv,0.000213,,,286.3,1258,1578,radiotracer,Million et al. (1981),,
+D169,Fe,"Fe-Ni alloy, 29.7 at.% Ni",Dv,0.000998,,,305.7,1258,1578,radiotracer,Million et al. (1981),,
+D170,Fe,"Fe-Ni alloy, 45.3 at.% Ni",Dv,0.000875,,,301.8,1258,1578,radiotracer,Million et al. (1981),,
+D171,Fe,"Fe-Ni alloy, 60.5 at.% Ni",Dv,0.00288,,,311.3,1258,1578,radiotracer,Million et al. (1981),,
+D172,Fe,"Fe-Ni alloy, 70.0 at.% Ni",Dv,0.0012,,,302.7,1258,1578,radiotracer,Million et al. (1981),,
+D173,Fe,"Fe-Ni alloy, 75.3 at.% Ni",Dv,0.00203,,,309.9,1258,1578,radiotracer,Million et al. (1981),,
+D174,Fe,"Fe-Ni alloy, 79.8 at.% Ni",Dv,0.00123,,,304.2,1258,1578,radiotracer,Million et al. (1981),,
+D175,Fe,"Fe-Ni alloy, 90.0 at.% Ni",Dv,0.0018,,,307.1,1258,1578,radiotracer,Million et al. (1981),,
+D176,Fe,Ni (pure),Dv,0.00092,,,297.7,1258,1578,radiotracer,Million et al. (1981),,
+D177,Fe,Ni-Fe-Cr austenitic alloys; 0 wt% Cr isoconcentration section (alloys 1-4),P,,,1.26e-12,174.0,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D178,Fe,Ni-Fe-Cr austenitic alloys; 10 wt% Cr isoconcentration section (alloys 5-8),P,,,2.40e-11,194.1,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D179,Fe,Ni-Fe-Cr austenitic alloys; 20 wt% Cr isoconcentration section (alloys 9-11),P,,,1.35e-10,218.7,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D180,Fe,Ni-Fe-Cr austenitic alloys; 30 wt% Cr isoconcentration section (alloys 12),P,,,5.62e-11,213.6,858,1208,radiotracer,Cermak et al. (1991),,B-type
+D181,Fe,Ti44Al56,Dv,2.7e-6,,,251.5,1040,1450,SIMS,Przeorski et al. (2001),10.4028/www.scientific.net/DDF.194-199.493,"curved Arrhenius - low-T fit; from scanned paper, verify before publication use"
+D182,Fe,alpha-Fe,P,,,1.12e-12,173.6,773,969,radiotracer,James et al. (1965),10.1080/14786436508218895,
+D183,Fe,gamma-Fe,P,,,7.7e-14,159.0,1222,1432,radiotracer,James et al. (1965),10.1080/14786436508218895,
+D184,Fe,high-purity Cu (5N8),Dgb,,5.58e-6,,120.9,528,873,radiotracer,Ribbe et al. (2019),10.1016/j.actamat.2018.11.060,low-T; C
+D185,Fe,high-purity Cu (5N8),Dgb,,4.9e-6,,148,949,1247,radiotracer,Ribbe et al. (2019),10.1016/j.actamat.2018.11.060,high-T formal-C re-analysis; C
+D186,Fe,high-purity Cu (5N8),P,,,9.1e-12,121,949,1247,radiotracer,Ribbe et al. (2019),10.1016/j.actamat.2018.11.060,high-T; B
+D187,Fe,γ-Fe-40 wt.% Ni,Dgb,,6.3e-03,,189.3,636,1013,radiotracer,Divinski et al. (2002),,slow; s assumed
+D188,Fe,γ-Fe-40 wt.% Ni,Dgb,,4.2e-03,,186.7,636,1013,radiotracer,Divinski et al. (2002),,slow; s assumed
+D189,Fe,γ-Fe-40 wt.% Ni,Dgb,,3.4e-03,,148,636,765,radiotracer,Divinski et al. (2002),,fast; C-B; s assumed
+D190,Ga,Al,Dv,4.9e-05,,,122.34,679.85,925.45,radiotracer,Peterson et al. (1970),,
+D191,Ga,CoGa (45.2 at.% Co),Dv,7.66e-01,,,326.1,923,1373,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D192,Ga,CoGa (45.2 at.% Co),Dv,1.45e-08,,,159.2,923,1373,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,c; two-exponential fit component
+D193,Ga,CoGa (47.0 at.% Co),Dv,6.90e-02,,,308.8,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D194,Ga,CoGa (47.0 at.% Co),Dv,160,,,393.7,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D195,Ga,CoGa (48.0 at.% Co),Dv,5.54e-02,,,307.8,973,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D196,Ga,CoGa (48.0 at.% Co),Dv,265000,,,484.4,973,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D197,Ga,CoGa (50.0 at.% Co),Dv,2.20e-02,,,301.0,912,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D198,Ga,CoGa (50.0 at.% Co),Dv,811,,,416.8,912,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D199,Ga,CoGa (52.0 at.% Co),Dv,2.49e-02,,,302.0,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D200,Ga,CoGa (52.0 at.% Co),Dv,7820,,,441.0,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D201,Ga,CoGa (54.0 at.% Co),Dv,2.12e-02,,,302.0,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D202,Ga,CoGa (54.0 at.% Co),Dv,5.28,,,357.0,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D203,Ga,CoGa (56.0 at.% Co),Dv,4.75e-02,,,303.0,898,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D204,Ga,CoGa (56.0 at.% Co),Dv,2390,,,430.3,898,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D205,Ga,CoGa (58.0 at.% Co),Dv,1.45e-02,,,289.5,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D206,Ga,CoGa (58.0 at.% Co),Dv,615,,,410.1,,,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D207,Ga,CoGa (60.0 at.% Co),Dv,8.08e-03,,,280.8,873,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,a; two-exponential fit component
+D208,Ga,CoGa (60.0 at.% Co),Dv,199,,,394.6,873,1423,radiotracer,Stolwijk et al. (1980),10.1080/01418618008239385,b; two-exponential fit component
+D209,Ga,Ti3Al (33 at% Al),Dv,6.3e-5,,,314.9,1054,1410,SIMS,Herzig et al. (1999),10.1016/S0966-9795(99)00028-X,
+D210,Ga,TiAl (54 at% Al),Dv,4.4e-5,,,293,1075,1568,SIMS,Herzig et al. (1999),10.1016/S0966-9795(99)00028-X,
+D211,Ga,alpha-Ti (pure),Dv,2.1e-3,,,295.5,873,1141,SIMS,Herzig et al. (1999),10.1016/S0966-9795(99)00028-X,
+D212,Ge,Al,Dv,4.81e-05,,,121.25,674.15,926.35,radiotracer,Peterson et al. (1970),,
+D213,Ge,Cu polycrystal (5N8 purity),Dgb,,2.8e-6,,84.8,451,576,radiotracer,Lohmann et al. (2003),,C; s measured
+D214,Ge,Cu polycrystal (5N8 purity),P,,,4.0e-16,58.6,723,923,radiotracer,Lohmann et al. (2003),,B; s measured
+D215,Mn,Al (99.99% pure),Dv,2.2e-05,,,120.5,729,916,radiotracer,Lundy et al. (1962),10.1063/1.1728808,
+D216,Mn,CoCrFeMnNi,Dv,0.00016,,,272,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D217,Mn,CoCrFeMnNi,Dv,4.0e-5,,,255.8,923,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D218,Mn,CoCrFeMnNi,P,,,1.3e-11,192.1,643,1273,radiotracer,Glienke et al. (2020),10.1016/j.actamat.2020.05.009,Branch I (slow); B+C combined; s assumed
+D219,Mn,CoCrFeMnNi (C-free),Dv,0.000801,,,212,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D220,Mn,CoCrFeMnNi + 0.2 at.% C,Dv,2e-06,,,251,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D221,Mn,CoCrFeMnNi + 0.5 at.% C,Dv,0.000553,,,268,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D222,Mn,CoCrFeMnNi + 0.8 at.% C,Dv,1e-06,,,177,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D223,Mn,CoCrFeNi,Dv,8.7e-4,,,302.6,923,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D224,Mn,CoCrFeNi,P,,,5.21e-12,188,643,1273,radiotracer,Sen et al. (2024),10.1016/j.actamat.2023.119588,slow; B+C combined; s assumed
+D225,Nb,Ti-33 at.% Al (alpha2-Ti3Al),Dv,3.200e-04,,,339,,,radiotracer/SIMS,Divinski et al. (2005),10.1007/s11669-005-0034-3,
+D226,Nb,Ti-54 at.% Al-10 at.% Nb (gamma-TiAl-10Nb),Dv,1.900e-05,,,280,,,radiotracer,Divinski et al. (2005),10.1007/s11669-005-0034-3,
+D227,Nb,Ti-56 at.% Al (gamma-TiAl),Dv,1.500e-04,,,324,,,radiotracer/SIMS,Divinski et al. (2005),10.1007/s11669-005-0034-3,
+D228,Nb,Ti44Al56,Dv,1.5e-4,,,324,1059,1643,SIMS,Przeorski et al. (2001),10.4028/www.scientific.net/DDF.194-199.493,"from scanned paper, verify before publication use"
+D229,Nb,"alpha-Fe material A (MARZ), 99.994 wt% Fe",P,,,6.9e-11,173.0,693,1023,radiotracer,Herzig et al. (2002),,B
+D230,Nb,"alpha-Fe material B (ARMCO), 99.94 wt% Fe",P,,,7.2e-9,214.5,833,996,radiotracer,Herzig et al. (2002),,B
+D231,Nb,"alpha-Fe single crystal, 99.99 wt% Fe",Dv,0.00043,,,226,700,1100,radiotracer,Herzig et al. (2002),,"paramagnetic state, model 1 fit"
+D232,Nb,"alpha-Fe single crystal, 99.99 wt% Fe",Dv,0.00043,,,256,700,1100,radiotracer,Herzig et al. (2002),,"ferromagnetic state, model 1 fit"
+D233,Nb,"alpha-Fe single crystal, 99.99 wt% Fe",Dv,0.00053,,,232,700,1100,radiotracer,Herzig et al. (2002),,"paramagnetic state, model 2 fit"
+D234,Nb,"alpha-Fe single crystal, 99.99 wt% Fe",Dv,0.0002,,,246,700,1100,radiotracer,Herzig et al. (2002),,"ferromagnetic state, model 2 fit"
+D235,Ni,"Ag (polycrystals, 5N purity)",Dgb,,3.1e-06,,110.1,589,741,radiotracer,Minkwitz et al. (1998),10.4028/www.scientific.net/MSF.294-296.541,"C; from scanned paper, verify before publication use"
+D236,Ni,"Ag (polycrystals, 5N purity)",P,,,1.9e-15,69.2,821,989,radiotracer,Minkwitz et al. (1998),10.4028/www.scientific.net/MSF.294-296.541,"B; from scanned paper, verify before publication use; s measured"
+D237,Ni,Al11.1Co22.6Cr24.8Fe27.4Ni14.1,Dv,2.73e-06,,,242.3,1073,1373,radiotracer,Zhang et al. (2025),10.1016/j.actamat.2025.121082,
+D238,Ni,Al11.1Co22.6Cr24.8Fe27.4Ni14.1,P,,,8.61e-12,194.9,703,973,radiotracer,Zhang et al. (2025),10.1016/j.actamat.2025.121082,B; s assumed
+D239,Ni,Al31.4Co19.1Cr10.2Fe13.5Ni29.5,Dv,0.092,,,330.8,1073,1373,radiotracer,Zhang et al. (2025),10.1016/j.actamat.2025.121082,
+D240,Ni,Al31.4Co19.1Cr10.2Fe13.5Ni29.5,P,,,1.39e-06,274.0,703,973,radiotracer,Zhang et al. (2025),10.1016/j.actamat.2025.121082,B+C combined; s assumed
+D241,Ni,AlCoCrFeNi2.1,P,,,1.66e-08,234.9,673,973,radiotracer,Zhang et al. (2025),10.1016/j.actamat.2025.121082,IPB; fast; B/C/BC combined; s assumed
+D242,Ni,"Alloy 602CA (Ni bal., Cr 24-26, Fe 8-11 wt%)",P,,,3.2e-15,128,773,873,radiotracer serial sectioning,Rajeshwari et al. (2020),10.1016/j.actamat.2020.05.051,fast (F); B; s assumed
+D243,Ni,"Alloy 602CA (Ni bal., Cr 24-26, Fe 8-11 wt%)",P,,,7.4e-07,285,773,873,radiotracer serial sectioning,Rajeshwari et al. (2020),10.1016/j.actamat.2020.05.051,slow (S); B; s assumed
+D244,Ni,Co (pure),Dv,0.000701,,,310.9,1338,1563,radiotracer,Million et al. (1971),,
+D245,Ni,"Co-Ni alloy No. 1 (99.5 at% Co, balance Ni)",Dv,0.000335,,,297.1,1500,1689,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D246,Ni,"Co-Ni alloy No. 10 (10.8 at% Co, balance Ni)",Dv,0.000147,,,276.1,1439,1683,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D247,Ni,"Co-Ni alloy No. 11 (0.03 at% Co, balance Ni)",Dv,0.000139,,,275.7,1422,1663,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D248,Ni,"Co-Ni alloy No. 12 (93.8 at% Co, balance Ni)",Dv,0.00054,,,302.1,1486,1641,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D249,Ni,"Co-Ni alloy No. 13 (4.3 at% Co, balance Ni)",Dv,0.000286,,,284.5,1486,1641,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D250,Ni,"Co-Ni alloy No. 2 (89.0 at% Co, balance Ni)",Dv,0.000642,,,303.8,1514,1683,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D251,Ni,"Co-Ni alloy No. 3 (80.6 at% Co, balance Ni)",Dv,0.000189,,,285.3,1436,1683,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D252,Ni,"Co-Ni alloy No. 4 (72.6 at% Co, balance Ni)",Dv,0.00016,,,281.2,1436,1683,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D253,Ni,"Co-Ni alloy No. 6 (49.4 at% Co, balance Ni)",Dv,2.5e-05,,,255.6,1377,1620,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D254,Ni,"Co-Ni alloy No. 7 (43.2 at% Co, balance Ni)",Dv,6.9e-05,,,266.9,1436,1683,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D255,Ni,"Co-Ni alloy No. 8 (21.1 at% Co, balance Ni)",Dv,4.5e-05,,,261.9,1439,1683,radiotracer,Hässner et al. (1965),10.1002/pssb.19650080108,
+D256,Ni,Co17Cr46Fe16.3Mn15.2Ni5.5,Dv,1.58e-04,,,290,928,1173,SIMS,Zhang et al. (2021),10.1016/j.actamat.2020.116498,
+D257,Ni,CoCrFeMnNi,Dv,0.00062,,,304,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D258,Ni,CoCrFeMnNi,Dv,1.1e-3,,,312.0,1100,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,high-temperature branch
+D259,Ni,CoCrFeMnNi,Dv,2.2e-9,,,184.7,923,1100,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,low-temperature branch
+D260,Ni,CoCrFeMnNi (C-free),Dv,0.00156,,,273,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D261,Ni,CoCrFeMnNi (equiatomic),Dv,6.2e-4,,,303.9,1073,1373,radiotracer,Vaidya et al. (2016),10.1016/j.jallcom.2016.07.239,
+D262,Ni,CoCrFeMnNi (equiatomic),P,,,1.42e-10,221,673,1173,radiotracer,Vaidya et al. (2017),10.1038/s41598-017-12551-9,B-type and C-type combined; s assumed
+D263,Ni,CoCrFeMnNi + 0.2 at.% C,Dv,0.000553,,,289,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D264,Ni,CoCrFeMnNi + 0.5 at.% C,Dv,0.000195,,,286,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D265,Ni,CoCrFeMnNi + 0.8 at.% C,Dv,2.4e-05,,,263,1173,1373,radiotracer,Lukianova et al. (2022),10.1016/j.actamat.2022.118136,
+D266,Ni,CoCrFeNi,Dv,1.1e-06,,,253,1073,1373,radiotracer,Vaidya et al. (2018),10.1016/j.actamat.2017.12.052,
+D267,Ni,CoCrFeNi,Dv,2.9e-5,,,283.4,923,1373,radiotracer,Gaertner et al. (2020),10.1016/j.scriptamat.2020.05.060,
+D268,Ni,CoCrFeNi (equiatomic),Dv,2.0e-6,,,257.8,1073,1373,radiotracer,Vaidya et al. (2016),10.1016/j.jallcom.2016.07.239,
+D269,Ni,CoCrFeNi (equiatomic),P,,,1.1e-14,158,673,1173,radiotracer,Vaidya et al. (2017),10.1038/s41598-017-12551-9,B-type and C-type combined; s assumed
+D270,Ni,Cu (5N8 purity),Dgb,,6.93e-7,,90.4,476,635,radiotracer,Divinski et al. (2007),10.1016/j.actamat.2007.01.032,C; s measured
+D271,Ni,Cu (5N8 purity),Dv,7.0e-5,,,225,,,radiotracer,Divinski et al. (2007),10.1016/j.actamat.2007.01.032,
+D272,Ni,Cu (5N8 purity),P,,,1.89e-16,73.8,758,1156,radiotracer,Divinski et al. (2007),10.1016/j.actamat.2007.01.032,B; s measured
+D273,Ni,Cu bicrystal 45 deg misorientation (99.999% Cu),Dgb,,9e-05,,108.8,949,1123,radiotracer autoradiography,Renouf et al. (1970),10.1080/14786437008228229,B
+D274,Ni,Cu bicrystal 45 deg misorientation (99.999% Cu),Dv,1.1e-04,,,225.9,949,1123,radiotracer autoradiography,Renouf et al. (1970),10.1080/14786437008228229,bulk
+D275,Ni,"Fe (pure, gamma)",Dv,0.000112,,,283.5,1258,1578,radiotracer,Million et al. (1981),,
+D276,Ni,Fe-15Cr-20Ni (wt%),Dv,1.5e-4,,,300,1233,1673,radiotracer,Rothman et al. (1980),,
+D277,Ni,Fe-15Cr-20Ni-1.4Si (wt%),Dv,4.8e-4,,,310,1233,1673,radiotracer,Rothman et al. (1980),,
+D278,Ni,Fe-15Cr-45Ni (wt%),Dv,1.8e-4,,,293,1233,1673,radiotracer,Rothman et al. (1980),,
+D279,Ni,Fe-22Cr-45Ni (wt%),Dv,1.1e-4,,,291,1233,1673,radiotracer,Rothman et al. (1980),,
+D280,Ni,"Fe-Ni alloy, 14.9 at.% Ni",Dv,0.000188,,,289.4,1258,1578,radiotracer,Million et al. (1981),,
+D281,Ni,"Fe-Ni alloy, 29.7 at.% Ni",Dv,0.000236,,,291.9,1258,1578,radiotracer,Million et al. (1981),,
+D282,Ni,"Fe-Ni alloy, 45.3 at.% Ni",Dv,0.000804,,,303.4,1258,1578,radiotracer,Million et al. (1981),,
+D283,Ni,"Fe-Ni alloy, 60.5 at.% Ni",Dv,0.000776,,,300.5,1258,1578,radiotracer,Million et al. (1981),,
+D284,Ni,"Fe-Ni alloy, 70.0 at.% Ni",Dv,0.00139,,,305.3,1258,1578,radiotracer,Million et al. (1981),,
+D285,Ni,"Fe-Ni alloy, 75.3 at.% Ni",Dv,0.00133,,,307.3,1258,1578,radiotracer,Million et al. (1981),,
+D286,Ni,"Fe-Ni alloy, 79.8 at.% Ni",Dv,0.000873,,,301.5,1258,1578,radiotracer,Million et al. (1981),,
+D287,Ni,"Fe-Ni alloy, 90.0 at.% Ni",Dv,0.000767,,,299.6,1258,1578,radiotracer,Million et al. (1981),,
+D288,Ni,Ni,Dv,9.2e-5,,,278,,,radiotracer,Divinski et al. (2010),10.1016/j.actamat.2009.09.015,
+D289,Ni,Ni,P,,,3.8e-14,141,800,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region I; B; s assumed
+D290,Ni,Ni,P,,,2.1e-12,171,853,1203,radiotracer residual activity method; Le Claire analysis,Cermak et al. (1993),,B
+D291,Ni,Ni,P,,,6.31e-11,186,773,1073,radiotracer,Cermak et al. (1998),10.1016/S0966-9795(97)00049-6,B
+D292,Ni,"Ni (99.6 wt.%, material B)",P,,,7.7e-14,162,694,1373,radiotracer,Divinski et al. (2010),10.1016/j.actamat.2009.09.015,material B; B+C
+D293,Ni,"Ni (99.999 wt.%, material A)",P,,,5.4e-15,123,800,1250,radiotracer,Divinski et al. (2010),10.1016/j.actamat.2009.09.015,"material A, B-type fit only; B"
+D294,Ni,"Ni (99.999 wt.%, material A)",P,,,8.8e-15,128,595,1250,radiotracer,Divinski et al. (2010),10.1016/j.actamat.2009.09.015,"material A, combined B+C fit (authors' recommended fit); B+C"
+D295,Ni,Ni (pure),Dv,0.000501,,,294.1,1338,1563,radiotracer,Million et al. (1971),,
+D296,Ni,Ni (pure),Dv,0.000344,,,290.0,1258,1578,radiotracer,Million et al. (1981),,
+D297,Ni,Ni (pure),P,,,1.71e-15,112.1,,,radiotracer,Frank et al. (1996),10.1016/0966-9795(96)00058-1,B
+D298,Ni,Ni 99.99 wt%,P,,,2.4e-13,165,584,1275,radiotracer serial sectioning,Prokoshkina et al. (2013),10.1016/j.actamat.2013.05.010,B+C combined
+D299,Ni,Ni single crystal,Dv,9.2e-5,,,277.9,813,1193,radiotracer,Maier et al. (1976),10.1002/pssb.2220780230,monovacancy (1V) term of two-term 1V+2V fit
+D300,Ni,Ni-0.03 at.% Bi,P,,,1.1e-14,132,800,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region I; B; s assumed
+D301,Ni,Ni-0.07 at.% Bi,P,,,1.3e-14,131,800,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region I; B; s assumed
+D302,Ni,Ni-0.09 at.% Bi,P,,,3.8e-14,138,800,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region I; B; s assumed
+D303,Ni,Ni-0.1 at.% B,P,,,2.51e-11,211,773,1073,radiotracer,Cermak et al. (1998),10.1016/S0966-9795(97)00049-6,B
+D304,Ni,Ni-0.14 at.% Bi,P,,,5.6e-14,139,1023,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region I; B; s assumed
+D305,Ni,Ni-0.14 at.% Bi,P,,,1.7e-14,128,800,1023,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region II; B; s assumed
+D306,Ni,Ni-0.21 at.% Bi,P,,,1.1e-13,127,800,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region II; B; s assumed
+D307,Ni,Ni-0.23 at.% Bi,P,,,2.4e-13,126,800,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region II; B; s assumed
+D308,Ni,Ni-0.28 at.% Bi,P,,,1.2e-13,114,800,1223,radiotracer,Bian et al. (2023),10.1016/j.actamat.2022.118632,Region III; B; s assumed
+D309,Ni,Ni-14.3 at.% Cr,Dv,2.312e-04,,,289.3,1223,1473,radiotracer,Růžičková et al. (1981),,
+D310,Ni,Ni-20.1 wt% Cr,P,,,2.7e-12,185,853,1203,radiotracer residual activity method; Le Claire analysis,Cermak et al. (1993),,B
+D311,Ni,Ni-23.6 at.% Cr,Dv,2.958e-04,,,293.8,1223,1473,radiotracer,Růžičková et al. (1981),,
+D312,Ni,Ni-29.1 wt% Cr,P,,,2.6e-13,162,853,1203,radiotracer residual activity method; Le Claire analysis,Cermak et al. (1993),,B
+D313,Ni,Ni-29.4 at.% Cr,Dv,1.021e-04,,,285.4,1223,1473,radiotracer,Růžičková et al. (1981),,
+D314,Ni,Ni-34.4 at.% Cr,Dv,1.349e-04,,,289.5,1223,1473,radiotracer,Růžičková et al. (1981),,
+D315,Ni,Ni-38.4 at.% Cr,Dv,1.429e-04,,,290.4,1223,1473,radiotracer,Růžičková et al. (1981),,
+D316,Ni,Ni-4.7 at.% Cr,Dv,1.321e-04,,,279.5,1223,1473,radiotracer,Růžičková et al. (1981),,
+D317,Ni,Ni-47.7 at.% Cr,Dv,1.742e-04,,,288.9,1223,1473,radiotracer,Růžičková et al. (1981),,
+D318,Ni,Ni-9 at.% Al,P,,,2.00e-09,231,773,1073,radiotracer,Cermak et al. (1998),10.1016/S0966-9795(97)00049-6,B
+D319,Ni,Ni-9 at.% Al-0.1 at.% B,P,,,7.94e-12,202,773,1073,radiotracer,Cermak et al. (1998),10.1016/S0966-9795(97)00049-6,B
+D320,Ni,Ni-9 at.% Al-0.3 at.% B,P,,,1.26e-11,211,773,1073,radiotracer,Cermak et al. (1998),10.1016/S0966-9795(97)00049-6,B
+D321,Ni,Ni-9.8 wt% Cr,P,,,3.2e-12,180,853,1203,radiotracer residual activity method; Le Claire analysis,Cermak et al. (1993),,B
+D322,Ni,"Ni-Co alloy, 19.9 at.% Co",Dv,0.000366,,,293.7,1338,1563,radiotracer,Million et al. (1971),,
+D323,Ni,"Ni-Co alloy, 26.3 at.% Co",Dv,0.000613,,,299.6,1338,1563,radiotracer,Million et al. (1971),,
+D324,Ni,"Ni-Co alloy, 30.3 at.% Co",Dv,0.000596,,,298.7,1338,1563,radiotracer,Million et al. (1971),,
+D325,Ni,"Ni-Co alloy, 50.7 at.% Co",Dv,0.00048,,,300.0,1338,1563,radiotracer,Million et al. (1971),,
+D326,Ni,"Ni-Co alloy, 70.0 at.% Co",Dv,0.000745,,,306.7,1338,1563,radiotracer,Million et al. (1971),,
+D327,Ni,"Ni-Co alloy, 89.7 at.% Co",Dv,0.00137,,,317.1,1338,1563,radiotracer,Million et al. (1971),,
+D328,Ni,"Ni-Co alloy, 92.9 at.% Co",Dv,0.00126,,,316.3,1338,1563,radiotracer,Million et al. (1971),,
+D329,Ni,"Ni-Co alloy, 96.3 at.% Co",Dv,0.000868,,,312.1,1338,1563,radiotracer,Million et al. (1971),,
+D330,Ni,Ni3Al (pure; 75.1 at% Ni near-stoichiometric and 76.9 at% Ni Ni-rich),P,,,3.27e-13,168.0,882,1374,radiotracer,Frank et al. (1996),10.1016/0966-9795(96)00058-1,B
+D331,Ni,Ni3Al + 0.24 at% B (boron-doped),P,,,1.24e-12,187.0,882,1352,radiotracer,Frank et al. (1996),10.1016/0966-9795(96)00058-1,B
+D332,Ni,NiAl (46.8 at.% Ni),Dv,2.340e-05,,,286.6,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D333,Ni,NiAl (48.3 at% Ni),Dv,1.2e-8,,,177.8,1273,1623,radiotracer,Hancock et al. (1971),10.1002/pssa.2210040115,
+D334,Ni,NiAl (48.6 at% Ni),Dv,1.04e-7,,,209.6,1273,1623,radiotracer,Hancock et al. (1971),10.1002/pssa.2210040115,
+D335,Ni,NiAl (48.7 at.% Ni),Dv,2.390e-05,,,286.6,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D336,Ni,NiAl (49.0 at% Ni),Dv,5.3e-8,,,200.4,1273,1623,radiotracer,Hancock et al. (1971),10.1002/pssa.2210040115,
+D337,Ni,NiAl (49.2 at% Ni),Dv,2.302e-5,,,275.7,1273,1623,radiotracer,Hancock et al. (1971),10.1002/pssa.2210040115,
+D338,Ni,NiAl (49.7 at.% Ni),Dv,1.670e-05,,,281.7,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D339,Ni,"NiAl (50.0 at.% Ni, sample a)",Dv,2.710e-05,,,288.5,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D340,Ni,"NiAl (50.0 at.% Ni, sample b)",Dv,3.450e-05,,,290.4,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D341,Ni,"NiAl (50.0 at.% Ni, sample c)",Dv,2.770e-05,,,286.6,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D342,Ni,NiAl (51.8 at.% Ni),Dv,4.800e-05,,,288.5,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D343,Ni,NiAl (54.6 at.% Ni),Dv,4.360e-05,,,277.9,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D344,Ni,NiAl (56.6 at.% Ni),Dv,1.030e-06,,,230.6,1050,1500,radiotracer+SIMS,Frank et al. (2001),10.1016/S1359-6454(01)00037-4,
+D345,Ni,NiAl (58.0 at% Ni),Dv,3.52e-6,,,216.3,1273,1623,radiotracer,Hancock et al. (1971),10.1002/pssa.2210040115,
+D346,Ni,NiAl-0.1 at.% B (49.2 at.% Al),P,,,3.98e-05,335,773,1073,radiotracer,Cermak et al. (1998),10.1016/S0966-9795(97)00049-6,B
+D347,Ni,Ti48Al52,Dv,1.8e-2,,,340,1269,1485,radiotracer,Przeorski et al. (2001),10.4028/www.scientific.net/DDF.194-199.493,"from scanned paper, verify before publication use"
+D348,Ni,alpha-Fe,P,,,3.23e-12,181.2,,,radiotracer,James et al. (1965),10.1080/14786436508218895,
+D349,Ni,gamma-Fe-40 wt% Ni (39.6 wt% Ni measured),P,,,1.31e-13,157,832,1092,radiotracer,Kang et al. (2004),,B; s assumed
+D350,Ni,nano gamma-Fe-40wt%Ni,Dgb,,9.3e-4,,177,625,1013,radiotracer serial sectioning,Divinski et al. (2003),,nanocrystalline GBs (intra-agglomerate); C+B+AB combined; s assumed
+D351,Ni,nano gamma-Fe-40wt%Ni,Dgb,,1.9e-3,,134,653,1002,radiotracer serial sectioning,Divinski et al. (2003),,inter-agglomerate interfaces; C-B+B-B+A-B combined; s assumed
+D352,Sb,Cu bicrystal 45 deg misorientation (99.999% Cu),Dgb,,2.3e-03,,87.9,878,994,radiotracer autoradiography,Renouf et al. (1970),10.1080/14786437008228229,B
+D353,Sc,HfScTiZr,Dv,0.14,,,300,973,1273,radiotracer,Muralikrishna et al. (2024),10.1016/j.jallcom.2023.173196,fast
+D354,Sc,HfScTiZr,Dv,1.761e-04,,,267,973,1273,radiotracer,Muralikrishna et al. (2024),10.1016/j.jallcom.2023.173196,slow
+D355,Ti,HfScTiZr,Dv,3.42e-05,,,215,1023,1373,radiotracer,Muralikrishna et al. (2024),10.1016/j.jallcom.2023.173196,fast
+D356,Ti,"PST-TiAl with 48 at.% Al (Ti48Al52, two-phase lamellar)",P,,,1.4e-10,267,1008,1183,radiotracer,Herzig et al. (2001),,IPB; B; s assumed
+D357,Ti,Ti-33 at.% Al (alpha2-Ti3Al),Dv,2.400e-05,,,288,,,radiotracer,Divinski et al. (2005),10.1007/s11669-005-0034-3,
+D358,Ti,Ti-54 at.% Al-10 at.% Nb (gamma-TiAl-10Nb),Dv,4.000e-04,,,304,,,radiotracer,Divinski et al. (2005),10.1007/s11669-005-0034-3,
+D359,Ti,Ti-56 at.% Al (gamma-TiAl),Dv,9.500e-06,,,273,,1470,radiotracer,Divinski et al. (2005),10.1007/s11669-005-0034-3,
+D360,Ti,Ti3Al with 25 at.% Al,P,,,4.76e-13,195.1,1126,1373,radiotracer,Herzig et al. (2001),,B; s assumed
+D361,Ti,Ti3Al with 28 at.% Al,P,,,3.15e-11,245.6,1126,1373,radiotracer,Herzig et al. (2001),,B; s assumed
+D362,Ti,Ti3Al with 32 at.% Al,P,,,7.14e-11,259.6,1126,1322,radiotracer,Herzig et al. (2001),,B; s assumed
+D363,Ti,Ti3Al with 33 at.% Al,P,,,3.17e-11,251.7,888,1316,radiotracer,Herzig et al. (2001),,B; s assumed
+D364,Ti,Ti3Al with 35 at.% Al,P,,,3.1e-11,253,1167,1273,radiotracer,Herzig et al. (2001),,B; s assumed
+D365,Ti,TiAl with 52 and 56 at.% Al (combined),P,,,4.6e-15,122.9,869,1467,radiotracer,Herzig et al. (2001),,combined single-phase fit (Eq. 7); B; s assumed
+D366,Ti,TiAl with 52 at.% Al (Ti48Al52),P,,,1.0e-15,112,869,929,radiotracer,Herzig et al. (2001),,B; s assumed
+D367,Ti,TiAl with 56 at.% Al (Ti44Al56),P,,,2.96e-15,118.2,1079,1467,radiotracer,Herzig et al. (2001),,single-phase gamma; B; s assumed
+D368,Ti,TiAl with 56 at.% Al (Ti44Al56),P,,,4.1e-16,111.9,834,1032,radiotracer,Herzig et al. (2001),,low-T two-phase gamma-TiAl/TiAl2 branch; B; s assumed
+D369,Ti,TiO2 (nanocrystalline thin film),Dgb,,7.25e-12,,74.7,473,873,radiotracer,Straumal et al. (2018),,low pO2 (purified Ar); C
+D370,Ti,alpha-Ti (high purity),P,,,4.5e-12,186.8,843,1118,radiotracer,Herzig et al. (2001),,B; s assumed
+D371,Ti,"two-phase Ti-48 at.% Al, lamellar PST crystal (alpha2/gamma, ~10 vol.% alpha2, lamellar spacing 4-5 um)",P,,,3.700e-10,276.5,1057,1183,radiotracer,Divinski et al. (2001),10.1016/S1359-6462(01)01006-5,IPB; B-type
+D372,W,"Fe-Ni alloy, 14.9 at.% Ni",Dv,0.00011,,,286.4,1258,1578,radiotracer,Million et al. (1981),,
+D373,W,"Fe-Ni alloy, 29.7 at.% Ni",Dv,0.00177,,,324.1,1258,1578,radiotracer,Million et al. (1981),,
+D374,W,"Fe-Ni alloy, 45.3 at.% Ni",Dv,0.00139,,,320.5,1258,1578,radiotracer,Million et al. (1981),,
+D375,W,"Fe-Ni alloy, 60.5 at.% Ni",Dv,0.00238,,,324.3,1258,1578,radiotracer,Million et al. (1981),,
+D376,W,"Fe-Ni alloy, 70.0 at.% Ni",Dv,0.00144,,,320.2,1258,1578,radiotracer,Million et al. (1981),,
+D377,W,"Fe-Ni alloy, 75.3 at.% Ni",Dv,0.00107,,,317.0,1258,1578,radiotracer,Million et al. (1981),,
+D378,W,"Fe-Ni alloy, 79.8 at.% Ni",Dv,0.000975,,,317.5,1258,1578,radiotracer,Million et al. (1981),,
+D379,W,"Fe-Ni alloy, 90.0 at.% Ni",Dv,0.000206,,,299.5,1258,1578,radiotracer,Million et al. (1981),,
+D380,Zn,Al,Dv,2.59e-05,,,120.75,630.15,926.05,radiotracer,Peterson et al. (1970),,
+D381,Zn,Al15Hf25Sc10Ti25Zr25,Dv,2.2e-03,,,245,873,1273,radiotracer,Sen et al. (2023),10.1016/j.scriptamat.2023.115376,
+D382,Zn,Al5Hf25Sc20Ti25Zr25,Dv,8.9e-05,,,212,873,1273,radiotracer,Sen et al. (2023),10.1016/j.scriptamat.2023.115376,
+D383,Zr,HfScTiZr,Dv,5.27e-04,,,242,1023,1373,radiotracer,Muralikrishna et al. (2024),10.1016/j.jallcom.2023.173196,fast
+D384,Zr,TiZrHfNbTa (equiatomic),Dv,3.770e-08,,,172.4,1123,1423,radiotracer,Zhang et al. (2022),10.1016/j.actamat.2022.117970,
+D385,Zr,TiZrHfNbV (equiatomic),Dv,4.770e-09,,,134.2,1223,1423,radiotracer,Zhang et al. (2022),10.1016/j.actamat.2022.117970,
